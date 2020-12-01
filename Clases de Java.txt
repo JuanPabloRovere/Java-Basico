@@ -1,0 +1,31 @@
+Herramientas para JAVA
+
+Numeros enteros
+byte (-128 a 127)
+short (-32,768 hasta 32,767)
+int (-2,147,483,648 a 2,147,483,647)
+long (muy grande)
+
+
+decimales
+float 8 valores a partir de la ,
+double 15 ,
+
+otros
+char (un solo caracter)
+boolean (true / false )
+
+
+
+Datos tipo objeto (empiezan siempre con mayuscula)  ( hay que invocarlos)
+
+String (crea cadenas de texto)
+
+
+Variables (necesita un Tipo: y un Nombre:)
+Tipo: dato numerico
+Nombre: xcosa
+
+
+Operadores aritmeticos
+
